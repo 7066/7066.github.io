@@ -1,0 +1,1 @@
+const n="Hi {name}!",t="You can {action} until {limit} minutes from departure.",e="change your flight",i="refund the ticket",o={hi:n,info:t,change:e,refund:i};export{e as change,o as default,n as hi,t as info,i as refund};

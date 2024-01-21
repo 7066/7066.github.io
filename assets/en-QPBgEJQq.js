@@ -1,0 +1,1 @@
+const o="Account",s="Password",t="Email",n="Phone",c="Captcha",a="Forgot password?",e="Send",r="Log in",d="Register",g={Account:o,Password:s,Email:t,Phone:n,Captcha:c,ForgotPassword:a,Send:e,Login:r,Register:d};export{o as Account,c as Captcha,t as Email,a as ForgotPassword,r as Login,s as Password,n as Phone,d as Register,e as Send,g as default};
