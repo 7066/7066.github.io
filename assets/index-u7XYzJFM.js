@@ -1,0 +1,1 @@
+import{d as o,a as s,c as n,b as a,t as r,u as c,e as i,F as u,o as f}from"./index-gxM8wn4v.js";const l=o("login",{state:()=>({user:"7066",id:4454545})}),g=s({__name:"index",setup(d){const e=l(),t=()=>{e.user="222222"};return(m,p)=>(f(),n(u,null,[a(" home "+r(c(e).user)+" ",1),i("div",{onClick:t},"ffff")],64))}});export{g as default};
