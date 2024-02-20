@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkNo_React=self.webpackChunkNo_React||[]).push([[345],{2345:function(e,t,u){u.r(t),u.d(t,{default:function(){return a}});var n=u(6540);function a(){return n.createElement("div",{className:"blue-wrap"},"Blue")}}}]);
